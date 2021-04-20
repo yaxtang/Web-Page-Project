@@ -1,0 +1,30 @@
+
+.level{
+  background-color:#b56357;/*#AF473C;*//* #76323f;*/
+  height: 80px;
+  width: auto;
+  color: black;	
+  padding-right: 20px;
+}
+.title{
+	margin-top: 20px;
+	font-size: 2em;
+  	font-weight: 600;
+  	font-family: Arial;
+  	color: #000;
+ 	font-variant: small-caps;
+  }
+.subtitle:hover{
+  background-color: #D7CeC7;
+  border-color: transparent;
+  
+}
+.subtitle{
+	padding:7px;
+	border-radius: 5px;
+	font-weight: 600;
+  	font-family: Arial;
+  	color: #C09F80;
+  	font-variant: small-caps;
+   
+}

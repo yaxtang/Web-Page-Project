@@ -1,0 +1,12 @@
+.level{
+	padding: 20px;
+	background-color: white;
+}
+body{
+	background: #C09F80;
+}
+.button:hover{
+	 background-color: #D7CeC7;
+  border-color: transparent;
+ 
+}

@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  /*animation: App-logo-spin infinite 20s linear;
+  */
+  text-align: center;
+  width: 80px;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #ffffff;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+.card-content { /*card content is login page the frame wrape around email and password*/
+  vertical-align: center;
+  width: auto;
+
+}
+.body{
+  width:auto;
+}
+
+.layout-default {
+  background-color:  #C09F80;
+  padding-bottom: 60px; 
+
+}
+.login {
+  text-align: center;
+  width: 350px; 
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.App-title {
+  font-size: 1.5em;
+  color: black;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.copyright {
+  padding-top: 10px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.control{
+	margin:5px;
+}
+.text{
+  
+text-decoration: underline;
+}
